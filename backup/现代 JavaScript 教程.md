@@ -1,0 +1,1 @@
+以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 [JavaScript](https://zh.javascript.info/#tab-1) 相关知识。
